@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ainohfiice.l20n.org/sitemap.xml
